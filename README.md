@@ -32,21 +32,16 @@ A feedback app that:
 
 ## Resources
 
-Look at /Users/christiantzurcanu/Documents/dev/nomen/ that is live at https://nomen.provable.dev
-
-This is what will be used to transfer identity from initial private identities to public identities
-Probably the first identity will be with PrivacySafe and will look like an email (<id_u1>@PrivacySafe.xyz)
-
-PrivacySafe has apps for:
+**PrivacySafe** has apps for:
 - sending email with protected identity
 - chatting with protected identity
 - notarization on Kayros
 
-Mythos has contracts for:
+**Mythos** has contracts for:
 - continous voting
 - notarization on Kayros
 
-Nomen implements identity transfer:
+**Nomen** implements identity transfer:
 - from PrivacySafe
 - to any Social Media: X.com
 - from one course to the next
