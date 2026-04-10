@@ -103,7 +103,7 @@ Ux is not guaranteed freedom from social pressure outside the system. Privacy re
 (According to https://virtues.provable.dev/.)
 
 Measurability by feedback is essential to Academia and Industry. It is the first step to achieve Industriousness and Abundance. However, it may be impeded by incorrect/byased application of Governance and Justice/Fairness.
-In order to isolate one virtue from the diminishing effects of other virtues, this system uses temporary privacy. Since privacy is not a virtue when it is eternal, this system guarantees that the private info remains private until all parties agree to disclosure, but encourages disclosure as the final conclusion for increasing Recognition https://virtues.provable.dev/docs/harmony.
+In order to isolate one virtue from the diminishing effects of other virtues, this system uses temporary privacy. Since [privacy](https://virtues.provable.dev/docs/concepts/#privacy) is not a virtue when it is eternal, this system guarantees that the private info remains private until all parties agree to disclosure, but encourages disclosure as the final conclusion for increasing Recognition https://virtues.provable.dev/docs/harmony.
 
 
 ## Diagrams
