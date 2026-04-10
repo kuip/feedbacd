@@ -68,6 +68,42 @@ Usecases fit best the situation where Ua has power over U1-40:
 - Sports teams: coach over players, especially academy, college, or youth systems.
 - Nonprofits and volunteer corps: coordinator over volunteers where retaliation risk is real.
 - Religious institutions: clergy or seminary leadership over seminarians or community workers.
+- Political party meetings: leaders over the other party members.
+
+## Guarantees
+
+### Ua is guaranteed:
+
+- control over cohort formation: Ua defines the participant set and issues the tokens.
+- a structured feedback process, not just raw messages: participants continuously vote on the feedback criteria, and the app finalizes an active template from those votes.
+- a right of reply: feedback can be answered in 1:1 chat, then potentially in a limited forum, and only later in a public stage.
+- closure: at the appointed term, voting and forums end, so the process cannot stay indefinitely fluid.
+- unilateral control over disclosure. Public release depends on participant voting and, for identity revelation, participant consent.
+
+### Ux is guaranteed:
+
+- temporary private identity inside the system.
+- participation in shaping the evaluation criteria, not just answering them.
+- a graduated disclosure ladder: private feedback first, then optional limited disclosure, then optional public stage.
+- that private information remains private until all parties agree to disclosure; this is the clearest normative guarantee.
+- that even if material becomes public, identity disclosure remains optional; the public stage can remain pseudonymous unless Ux approves identity transfer.
+
+Ux is not guaranteed freedom from social pressure outside the system. Privacy reduces retaliation risk, but it does not define enforcement against out-of-band coercion.
+
+### Society at large is guaranteed:
+
+- that only selected discussions and vote outcomes become public, not the entire private corpus.
+- a mechanism intended to improve feedback quality in power-imbalanced settings by shielding participants early and encouraging recognition later.
+- better legitimacy of authority: “honor,” “prestige,” and elevation of the Ua's institution when privacy is used well.
+- cryptographic verifiability of the information that will be disclosed.
+
+
+## Virtue
+
+According to https://virtues.provable.dev/.
+Measurability by feedback is essential to Academia and Industry. It is the first step to achieve Industriousness and Abundance. However, it may be impeded by incorrect/byased application of Governance and Justice/Fairness.
+In order to isolate one virtue from the diminishing effects of other virtues, this system uses temporary privacy. Since privacy is not a virtue when it is eternal, this system guarantees that the private info remains private until all parties agree to disclosure, but encourages disclosure as the final conclusion for increasing Recognition https://virtues.provable.dev/docs/harmony.
+
 
 ## Diagrams
 
